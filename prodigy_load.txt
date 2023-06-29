@@ -1,0 +1,1 @@
+python -m prodigy spans.manual youtube_spancat blank:en focus_input.jsonl --label CIT,REF,PUB,VOL
